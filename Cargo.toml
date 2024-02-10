@@ -1,7 +1,7 @@
 [package]
 name = "balachandran-copy-file"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ['Balchandran']
 description = "copy the file from one place to another place"
 license = "MIT OR Apache-2.0"
